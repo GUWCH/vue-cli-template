@@ -5,3 +5,7 @@
 # 创建命令
 
 vue init GUWCH/vue-cli-template projectName
+
+# 更新
+
+git subtree pull --prefix=template sub-template master
